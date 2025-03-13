@@ -21,5 +21,11 @@ Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che div
 
 ---
 
+## Partner
+
+![Termius](https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png)
+
+---
+
 **ChillSpot - Developing & Community Discord**  
 Unisciti alla nostra community su Discord per rimanere aggiornato su tutte le novità!
