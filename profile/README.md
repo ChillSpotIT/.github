@@ -23,10 +23,12 @@ Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che div
 
 ## Partner
 <a href="https://termius.com" target="_blank">
-    <img src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" height="35" alt="Termius"  />
+    <img src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" width="150" alt="Termius"  />
 </a>
- &nbsp;&nbsp;&nbsp; <img href="astralhost.cloud" src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
 
+<a href="https://astralhost.cloud" target="_blank">
+<img href="astralhost.cloud" src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
+</a>
 ---
 
 **ChillSpot - Developing & Community Discord**  
