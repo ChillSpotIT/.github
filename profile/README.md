@@ -29,6 +29,7 @@ Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che div
 <a href="https://astralhost.cloud" target="_blank">
 <img href="astralhost.cloud" src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
 </a>
+
 ---
 
 **ChillSpot - Developing & Community Discord**  
