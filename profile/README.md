@@ -28,7 +28,7 @@ Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che div
 </a>
 &nbsp;
 <a href="https://astralhost.cloud" target="">
-    <img src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
+    <img src="https://i.ibb.co/4g3f2xvm/Frame-177.png" width="150" alt="Astralhost"/>
 </a>
 
 ---
