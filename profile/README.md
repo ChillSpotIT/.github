@@ -23,7 +23,7 @@ Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che div
 
 ## Partner
 
-<img href="termius.com" src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" alt="Termius" width="150"/> <h7></h7> <img href="astralhost.cloud" src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
+<img href="termius.com" src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" alt="Termius" width="150"/> &nbsp;&nbsp;&nbsp; <img href="astralhost.cloud" src="https://i.ibb.co/4g3f2xvm/Frame-177.png" alt="Astralhost" width="150"/>
 
 ---
 
