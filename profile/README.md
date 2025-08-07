@@ -9,7 +9,7 @@ ChillSpot è un'organizzazione dedicata allo sviluppo e alla creazione di esperi
   
 Se vuoi far parte della nostra community, unisciti a noi su Discord:
 
-[Entra in ChillSpot su Discord](https://discord.gg/cspot)
+[Entra in ChillSpot su Discord](https://discord.gg/vxNKHYQerK)
 
 ## Contribuire
 
