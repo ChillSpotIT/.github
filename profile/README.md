@@ -1,34 +1,34 @@
 # <img src="https://i.ibb.co/jHzYHxz/Frame-53.png" width="50" />
 
-ChillSpot è un'organizzazione dedicata allo sviluppo e alla creazione di esperienze uniche per la community. Ci occupiamo di creare progetti innovativi, tool e risorse per la nostra comunità Discord.
+ChillSpot is an organization dedicated to developing and creating unique experiences for the community. We focus on building innovative projects, tools, and resources for our Discord community.
 
-## Cosa facciamo?
+## What Do We Do?
 
-- **Sviluppo Software**: Creiamo e manteniamo progetti legati al mondo del gaming, in particolare per la piattaforma Discord, Server Esterni, e altre applicazioni utili.
-- **Community Discord**: ChillSpot è un posto dove gli utenti possono connettersi, socializzare e partecipare a eventi, discussioni e altre attività divertenti.
-  
-Se vuoi far parte della nostra community, unisciti a noi su Discord:
+* **Software Development**: We create and maintain projects related to the gaming world, particularly for the Discord platform, external servers, and other useful applications.
+* **Discord Community**: ChillSpot is a place where users can connect, socialize, and take part in events, discussions, and other fun activities.
 
-[Entra in ChillSpot su Discord](https://discord.gg/vxNKHYQerK)
+If you want to be part of our community, join us on Discord:
 
-## Contribuire
+[Join ChillSpot on Discord](https://discord.gg/vxNKHYQerK)
 
-Siamo sempre alla ricerca di collaboratori per migliorare i nostri progetti. Se vuoi contribuire, consulta le nostre repository e apri una pull request!
+## Contributing
 
-## Licenza
+We are always looking for collaborators to help improve our projects. If you want to contribute, check out our repositories and open a pull request!
 
-Tutti i progetti sono rilasciati sotto la [MIT License](LICENSE), a meno che diversamente specificato.
+## License
+
+All projects are released under the [MIT License](LICENSE), unless otherwise specified.
 
 ---
 
-## Partner
+## Partners
 
 <a href="https://termius.com" target="_blank">
     <img src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" width="150" alt="Termius"/>
 </a>
 
-
 ---
 
-**ChillSpot - Developing & Community Discord**  
-Unisciti alla nostra community su Discord per rimanere aggiornato su tutte le novità!
+**ChillSpot - Developing & Community Discord**
+Join our community on Discord to stay updated on all the latest news!
+
