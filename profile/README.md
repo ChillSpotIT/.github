@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/jHzYHxz/Frame-53.png" width="50" />
+# <img src="https://i.ibb.co/jHzYHxz/Frame-53.png." width="50" />
 
 ChillSpot is an organization dedicated to developing and creating unique experiences for the community. We focus on building innovative projects, tools, and resources for our Discord community.
 
