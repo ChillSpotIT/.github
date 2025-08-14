@@ -17,7 +17,7 @@ We are always looking for collaborators to help improve our projects. If you wan
 
 ## License
 
-All projects are released under the [MIT License](LICENSE), unless otherwise specified.
+All projects are released under the [MIT License](https://i.ibb.co/jHzYHxz/Frame-53.png), unless otherwise specified.
 
 ---
 
