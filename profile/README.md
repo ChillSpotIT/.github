@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ChillSpotIT/.github/refs/heads/main/logo.png" width="50" />
 
-ChillSpot is an organization dedicated to developing and creating unique experiences for the community. We focus on building innovative projects, tools, and resources for our Discord community.
+ChillSpot is an organization dedicated to developing and creating unique experiences for the community. We focus on building innovative projects, tools, and resources for our community.
 
 ## What Do We Do?
 
@@ -29,6 +29,6 @@ All projects are released under the [MIT License](LICENSE), unless otherwise spe
 
 ---
 
-**ChillSpot - Developing & Community Discord**
-Join our community on Discord to stay updated on all the latest news!
+**ChillSpot - Developer Project**
+Join our Discord server to stay updated on all the latest news!
 
