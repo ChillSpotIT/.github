@@ -22,10 +22,7 @@ All projects are released under the [MIT License](LICENSE), unless otherwise spe
 ---
 
 ## Partners
-
-<a href="https://termius.com" target="_blank">
-    <img src="https://cdn2.steamgriddb.com/logo/88502646b2293c4aaa173b33afcd40f1.png" width="150" alt="Termius"/>
-</a>
+### We currently have no partners
 
 ---
 
